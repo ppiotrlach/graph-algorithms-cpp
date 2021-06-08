@@ -1,10 +1,10 @@
 # graph-algorithms-cpp
 
-### Implementation of Prim (MST) and Bellman-Ford algorithm for 4th semester of IT studies
+### Implementation of Prim (MST) and Bellman-Ford algorithms for 4th semester of IT studies
 
 snippet:
 
-```bash
+```sh
 SELECT THE NUMBER OF THE OPERATION YOU ARE INTERESTED IN
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
